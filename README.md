@@ -22,7 +22,8 @@
 - Condicional Simples:
     - **If - Else**.
     - Indentação: o uso de espaços ou tabulações no início de linhas de código para organizar e estruturar o código.
-    
-
+## Estruturas Condicionais 2 - Curso de Algoritmos #08 - Gustavo Guanabara
+- Mais de duas opções;
+## Estruturas de Repetição 1 - Curso de Algoritmos #09 - Gustavo Guanabara
 
 
